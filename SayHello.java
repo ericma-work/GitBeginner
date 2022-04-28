@@ -9,6 +9,8 @@
  */
 public class SayHello {
     public static void main(String[] args) {
-        System.out.println("Hello There");
+        System.out.println("my name is Bob!");
+        System.out.println("What about you!?");
+        
     }
 }
